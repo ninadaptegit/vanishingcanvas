@@ -46,4 +46,17 @@ As the spatial canvas gets smaller:
 > **"If you blindly stack layers without managing spatial dimensions, you risk building a network that's too *blind* to learn."**
 
 ---
+### Accuracy
+<img src="https://github.com/user-attachments/assets/31c04d0e-9a48-4c20-ae9a-47257da5e549" width="400"/>
+<img src="https://github.com/user-attachments/assets/ccfa863d-3089-4f33-9882-e0f103764040" width="400"/>
+
+### Loss
+<img src="https://github.com/user-attachments/assets/b2183ca8-340d-4e3b-980b-e22a0567bceb" width="400"/>
+<img src="https://github.com/user-attachments/assets/a6425a1a-66d4-40a1-a3c4-8602ba880abe" width="400"/>
+
+
+
+
+
+
 
